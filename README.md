@@ -1,0 +1,4 @@
+singlepagewebsite
+=================
+
+assignment 1
