@@ -121,6 +121,15 @@ q2 {
     color: #3b64af
 }
 
+
+figcaption {
+    margin: .1rem;
+    padding: .2rem;
+    color: gray;
+    font-size: .7rem;
+    text-align: right;    
+}
+
 h5 {
     color: white;
     text-align: center;
