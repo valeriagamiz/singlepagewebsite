@@ -135,6 +135,9 @@ h5 {
     text-align: center;
     background-color: #462505;
     overflow: hidden;
+    font-size: 1rem;
+    font-family: Georgia, sans-serif;
+    line-height:1.3rem; 
 }
 
 details {
