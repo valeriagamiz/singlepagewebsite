@@ -62,17 +62,18 @@ body {
 
 h1 {      
     margin: 0;
-    background-image:url(..//images/americaneaglecampaign1.jpg);.jpg);
+    background-image:url(..//images/americaneaglecampaign1.jpg);
     background-repeat:no-repeat;
     background-color: transparent;
     border: #17cbc0;
     padding: 23rem;
     font-weight: normal;
     font-family: Georgia, sans-serif;
-    font-size: 4remrem;
+    font-size: 2rem;
     text-align: right;
     text-transform: uppercase;
-    color: #63300b; 
+    color: white;
+    font-weight: bold;
     background-color: rgba(243, 230, 26, .1);
     padding: 10rem 0;
 }
@@ -80,24 +81,63 @@ h1 {
 h2{ 
     margin: 0;
     padding: 0;
-    color: black; 
+    color: white;
+    background-color: #061a44;
+    overflow: hidden; 
+    font-family: Times New Roman, Georgia, sans-serif;
+    font-weight: normal;
     font-size: 2rem;
     line-height: 3rem;
 }
 
+h4 {
+    margin: .5rem;
+    padding: 0;
+    color: Navy; 
+    font-family: Georgia,sans-serif;
+    font-weight: normal;
+    font-size: 1.5rem;
+}
+
+q {
+    color: red;
+    font-size: 1.3rem;
+    font-weight: bold;
+}
+
+q:before {
+    content: "“";
+    font-size: 2rem;
+    color: #357b95;
+}
+
+q:after {
+    content: "”";
+    font-size: 2rem; 
+    color: #357b95;
+}
+
+q2 {
+    color: #3b64af
+}
+
+h5 {
+    color: white;
+    text-align: center;
+    background-color: #111752;
+    overflow: hidden;
+}
+
+details {
+    margin: .5rem;
+    padding: 0;
+    color: navy;
+    font-size: .9rem;
+}
+
 article {
     margin-top: 22.6rem;
-    color: black;
-        
-    
-
-    
-    
-    
-    
-    
-    
-    
+    color: black;    
 }
 
 
